@@ -28,6 +28,7 @@ button {
 
 img {
     display: block;
+    width: 100%;
 }
 
 .container {
@@ -241,6 +242,10 @@ img {
     border-radius: 0px 0px 4px 4px;
 }
 .team-name-item {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
     text-align: center;
     margin-bottom: 8px;
 }
